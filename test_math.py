@@ -12,7 +12,7 @@ def run_tests():
     else:
         raise AssertionError("Expected ValueError")
 
-    print("All tests passed.")
+    print("All tests passed. Here is the end")
 
 if __name__ == "__main__":
     run_tests()
